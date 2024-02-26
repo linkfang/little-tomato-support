@@ -1,7 +1,10 @@
 <div align="center">
 <h1>Little Tomato Support</h1>
-<img src="./assets/icon.webp" alt="icon of Little Tomato" width="150" style="display: block; margin: 40px auto" />
 
+<br/>
+<img src="./assets/icon.webp" alt="icon of Little Tomato" width="150px" />
+
+<p></p>
 This is the support site for little tomato.
 
 </div>
