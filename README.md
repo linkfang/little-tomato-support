@@ -73,6 +73,34 @@ As we are a 2-person team and only 1 of us mainly works on Little Tomato, so it 
 
 For suggested features or improvements, we will carefully consider if it fits in Little Tomato and also some coming features. Our goal is to keep it simple but useful and enjoyable, so there is no guarantee a suggested feature will be added in Little Tomato, but we encourage all users to open an issue to give us suggestions if you have any so that we can know more about your needs to improve Little Tomato or even develop new apps to work better for you.
 
+## Privacy Policy
+
+### Introduction
+
+This Privacy Policy describes how Little Tomato ("we," "us,", "our" or "App") uses the limited information stored locally on your device.
+
+### Information We Use
+
+The App **does not collect** any personal information from you. However, it uses the following information stored locally on your device to function properly:
+
+- **Primary Language:** This helps us display the App interface in the appropriate language (English/Chinese).
+- **Device Manufacturer:** This helps us optimize the App's performance for your specific device.
+- **Screen Size:** This helps us adjust the App's layout to best fit your device's screen.
+
+This information is never transmitted from your device and remains solely for the App's internal use.
+
+### Security
+
+Since the App functions entirely offline and does not collect or transmit any information, there are no security risks associated with user data.
+
+### Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: zero2anything@outlook.com
+
 ## Last But Not Least
 
 Thank you for using Little Tomato and hope it can help you do more with more joy!
