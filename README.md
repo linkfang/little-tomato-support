@@ -64,6 +64,10 @@ We are working on supporting more notification services (e.g., Xiaomi, OPPO, Viv
 
 However, this issue should only exist on the smart phones that are using China mainland OS versions. Therefore, the ones that use a global OS version should still be able to receive notification.
 
+### Is there an Android version?
+
+Yes, Android version is developed in parallel with iOS version. But, as Google requires 20 testers to test the app for 14 days to release the app, so we are still looking for testers for Android version. If you would like to be a tester, please contact us at zero2anything@outlook.com. It's not a strict test process, just need to use the app for 14 days.
+
 ### How to submit a bug or suggestion?
 
 Before you create a new issue, please search the existing issue list to avoid creating a duplicated one. If the issue does already exist, feel free to give a thumb up or even a comment to it so that we know it might be a common issue.
