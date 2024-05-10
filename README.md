@@ -19,6 +19,10 @@ All features available in latest version
 - Stop the session
 - If app is in foreground, when session ends, app will keep vibrating before user taps it
 - If app is in background, when session ends, app will send a notification as a reminder
+- 7 Themes to choose from
+- Random mode will randomly choose a different theme after each session
+- Keep screen on feature
+- Tutorial page
 
 ## Video Tutorial
 
